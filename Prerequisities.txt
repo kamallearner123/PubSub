@@ -1,0 +1,12 @@
+1) Basic C
+2) Threads (pthreads (POSIX threads)
+3) Mutex locks 
+4) Socket pprogramming (TCP/UDP)
+5) Linked lists / Trees
+6) Linux cmds (hands on)
+7) git knowledge
+
+Tools:
+1) git
+2) draw.io
+
